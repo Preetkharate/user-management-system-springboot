@@ -1,32 +1,104 @@
-# User Management System
+# User Management System (Spring Boot + React + AWS)
 
-## 🚀 Tech Stack
+## 🚀 Overview
 
-Java, Spring Boot, React, MySQL, AWS
+A full-stack web application for managing users with authentication and CRUD operations. Built using Spring Boot for backend and React for frontend, with MySQL database and AWS deployment.
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend:
+
+* Java
+* Spring Boot
+* REST APIs
+
+### Frontend:
+
+* React.js
+* HTML, CSS, JavaScript
+
+### Database:
+
+* MySQL
+
+### Cloud:
+
+* AWS (EC2, S3)
+
+### Tools:
+
+* Git, GitHub
+
+---
 
 ## 📌 Features
 
-* User authentication
+* User registration and login
+* Create, read, update, delete users
+* REST API integration
+* Responsive UI
+* Database optimization
+
+---
+
+## ⚡ Performance Improvements
+
+* Optimized MySQL queries improving response time by ~20%
+* Reduced API latency using efficient backend logic
+
+---
+
+## 🧠 Concepts Used
+
+* RESTful API design
+* MVC architecture (Spring Boot)
 * CRUD operations
-* REST APIs
-* Database integration
+* Database normalization
+* Component-based frontend (React)
 
-## ⚡ Performance
+---
 
-* Reduced API response time by 20%
-* Optimized MySQL queries
+## 🛠️ Setup Instructions
 
-## 🛠️ Setup
+### Backend:
 
-1. Clone the repo
-2. Run backend (Spring Boot)
-3. Run frontend (React)
+1. Navigate to backend folder
+2. Run:
+
+   ```bash
+   mvn spring-boot:run
+   ```
+
+### Frontend:
+
+1. Navigate to frontend folder
+2. Run:
+
+   ```bash
+   npm install
+   npm start
+   ```
+
+---
 
 ## 📷 Screenshots
 
-(Add later)
+(Add your screenshots here)
+
+---
 
 ## 🔗 Future Improvements
 
-* Add JWT authentication
-* Improve UI
+* JWT Authentication
+* Role-based access control
+* Docker deployment
+
+---
+
+## 👨‍💻 Author
+
+Prithviraj Kharate
+GitHub: https://github.com/Preetkharate
+
