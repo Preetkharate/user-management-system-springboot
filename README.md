@@ -43,6 +43,7 @@ A full-stack web application for managing users with authentication and CRUD ope
 * Database optimization
 
 ---
+- Backend APIs for user CRUD operations
 
 ## ⚡ Performance Improvements
 
