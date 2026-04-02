@@ -1,4 +1,5 @@
 // REST controller for handling user APIs
+// Supports CRUD operations: create, fetch, delete users
 @RestController
 @RequestMapping("/users")
 public class UserController {
