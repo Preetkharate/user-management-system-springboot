@@ -1,3 +1,4 @@
+Initial setup of User Management System project
 # User Management System (Spring Boot + React + AWS)
 
 ## 🚀 Overview
