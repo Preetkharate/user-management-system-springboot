@@ -1,5 +1,8 @@
 Initial setup of User Management System project
 # User Management System (Spring Boot + React + AWS)
+## 🎯 Problem Solved
+
+This system simplifies user management by providing scalable backend APIs and efficient database handling for CRUD operations. It demonstrates how full-stack applications can manage user data with optimized performance and structured architecture.
 
 ## 🚀 Overview
 
