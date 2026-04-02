@@ -1,3 +1,4 @@
+// Entity class for user table
 @Entity
 public class User {
 
