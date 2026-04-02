@@ -21,4 +21,13 @@ public class UserController {
     public void delete(@PathVariable Long id) {
         repo.deleteById(id);
     }
+    
+    // Simple login API for user authentication
+    @PostMapping("/login")
+    public String login(@RequestBody User user) {
+    if(user.getEmail().equals("test@gmail.com") && user.getName().equals("admin")) {
+        return "Login successful";
+      }
+    return "Invalid credentials";
+    }
 }
