@@ -23,6 +23,7 @@ A full-stack web application for managing users with authentication and CRUD ope
 ### Database:
 
 * MySQL
+Optimized database queries for improved performance
 
 ### Cloud:
 
