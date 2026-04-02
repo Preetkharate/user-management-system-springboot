@@ -1,3 +1,4 @@
+// REST controller for handling user APIs
 @RestController
 @RequestMapping("/users")
 public class UserController {
